@@ -15,12 +15,9 @@ I'm a backend engineer passionate about building scalable systems and AI-powered
 
 ### 🚀 Featured Projects
 
-#### [AstroDreamers](https://github.com/DVANH0302/astrodreamers) | Real-Time Air Quality Monitoring
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+#### [AstroDreamers](https://github.com/DVANH0302/astrodreamers) | Real-Time Air Quality Monitoring | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-[Live Demo](https://astrodreamers.netlify.app) | [View Code](https://github.com/AstroDreamers)
+[Live Demo](https://astrodreamers.netlify.app) | [Github](https://github.com/AstroDreamers)
 
 Built for the **NASA Space Apps Challenge** - A real-time air quality monitoring platform integrating NASA TEMPO satellite data with OpenAQ sensors.
 
