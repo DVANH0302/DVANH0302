@@ -115,5 +115,3 @@ A **microservices-based e-commerce system** demonstrating distributed transactio
 </div>
 
 ---
-
-💡 Open to backend engineering opportunities and collaborations!
