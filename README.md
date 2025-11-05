@@ -27,8 +27,6 @@ Built for the **NASA Space Apps Challenge** - A real-time air quality monitoring
 - 📊 EPA color-coded indicators with real-time dashboard
 - ☁️ Deployed on Netlify (frontend) and Render (backend)
 
-Got it — here’s a **concise version** of your **MicroCarts** project in the same format and tone as *AstroDreamers*:
-
 ---
 
 #### [MicroCarts](https://github.com/DVANH0302/MicroCart) | Distributed E-Commerce Platform | ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
