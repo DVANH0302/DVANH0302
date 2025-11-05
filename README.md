@@ -1,17 +1,17 @@
 # Hi there, I'm Anh Viet Doan 👋
 
-## Backend Software Engineer | Master's Student @ University of Sydney
+## Software Engineer | Master's Student @ University of Sydney
 
 I'm a backend engineer passionate about building scalable systems and AI-powered applications. Currently pursuing my Master's in Computer Science while exploring the intersection of cloud infrastructure, data engineering, and artificial intelligence.
 
 ### 🔭 What I'm Working On
-- Building production-ready backend systems with **Spring Boot**, **Django**, and **FastAPI**
+- Building production-ready & scalable backend systems with **Spring Boot**, and **FastAPI**
 - Exploring **RAG architectures** and generative AI applications
 - Developing cloud-native solutions on **AWS**
 
 ### 💼 Recent Experience
 - **Solution Developer @ VPBank** - Built RAG AI chatbot serving 500+ users with AWS ECS and OpenMetadata
-- **Fullstack Developer Intern** - Developed backend services with Django and Spring Boot
+- **Fullstack Developer Intern** - Developed backend services with Spring Boot
 
 ### 🚀 Featured Projects
 
@@ -27,6 +27,22 @@ Built for the **NASA Space Apps Challenge** - A real-time air quality monitoring
 - 📊 EPA color-coded indicators with real-time dashboard
 - ☁️ Deployed on Netlify (frontend) and Render (backend)
 
+Got it — here’s a **concise version** of your **MicroCarts** project in the same format and tone as *AstroDreamers*:
+
+---
+
+#### [MicroCarts](https://github.com/DVANH0302/MicroCart) | Distributed E-Commerce Platform | ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
+
+[GitHub](https://github.com/DVANH0302/MicroCart)
+
+A **microservices-based e-commerce system** demonstrating distributed transactions and event-driven architecture using the **Saga pattern**.
+
+**Key Features:**
+
+* 🧩 Four Spring Boot microservices (Store, Bank, Delivery, Email) with isolated databases
+* 🔄 **Saga orchestration** for consistent order, payment, and delivery workflows
+* 📨 **RabbitMQ messaging** for asynchronous communication
+* 🐳 Fully containerized — run everything with `docker compose up`
 
 
 ---
