@@ -12,7 +12,7 @@ I'm a backend engineer passionate about building scalable systems and AI-powered
 
 ### 💼 Recent Experience
 - **Solution Developer @ VPBank** - Built RAG AI chatbot serving 500+ users with AWS ECS and OpenMetadata
-- **Fullstack Developer Intern** - Developed backend services with Spring Boot
+- **Fullstack Developer Intern** - Developed fullstack applications with Reactjs & Spring Boot
 
 ### 🚀 Featured Projects
 
