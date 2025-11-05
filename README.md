@@ -1,4 +1,4 @@
-# Hi there, I'm Viet Anh Doan. You can call me Andy!👋
+# Hi there 👋, I'm Viet Anh Doan. You can call me Andy!
 
 ## Software Engineer | Master's Student @ University of Sydney
 
