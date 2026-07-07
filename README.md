@@ -1,116 +1,91 @@
-# Hi there 👋, I'm Viet Anh Doan (Andy)
+# Hi, I'm Andy 👋
 
-
-## Software Engineer | Master's Student @ University of Sydney
-
-I'm a backend engineer passionate about building scalable systems and AI-powered applications. Currently pursuing my Master's in Computer Science while exploring the intersection of cloud infrastructure, data engineering, and artificial intelligence.
-
-### 🔭 What I'm Working On
-- Building production-ready & scalable backend systems with **Spring Boot**, and **FastAPI**
-- Exploring **RAG architectures** and generative AI applications
-- Developing cloud-native solutions on **AWS**
-
-### 💼 Recent Experience
-- **Solution Developer @ VPBank** - Built RAG AI chatbot serving 500+ users with AWS ECS and OpenMetadata
-- **Fullstack Developer Intern** - Developed fullstack applications with Reactjs & Spring Boot
-
-### 🚀 Featured Projects
-
-#### [AstroDreamers](https://github.com/AstroDreamers) | Real-Time Air Quality Monitoring | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-[Live Demo](https://astrodreamers.netlify.app) | [Github](https://github.com/AstroDreamers)
-
-Built for the **NASA Space Apps Challenge** - A real-time air quality monitoring platform integrating NASA TEMPO satellite data with OpenAQ sensors.
-
-**Key Features:**
-- 🌍 Monitors 6 pollutants (PM2.5, O3, NO2, SO2, CO, PM10) across multiple locations
-- 🔐 JWT authentication and customizable threshold-based alerts
-- 📊 EPA color-coded indicators with real-time dashboard
-- ☁️ Deployed on Netlify (frontend) and Render (backend)
-
----
-
-#### [MicroCart](https://github.com/DVANH0302/MicroCart) | Distributed E-Commerce Platform | ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-
-[GitHub](https://github.com/DVANH0302/MicroCart)
-
-A **microservices-based e-commerce system** demonstrating distributed transactions and event-driven architecture using the **Saga pattern**.
-
-**Key Features:**
-
-* 🧩 Four Spring Boot microservices (Store, Bank, Delivery, Email) with isolated databases
-* 🔄 **Saga orchestration** for consistent order, payment, and delivery workflows
-* 📨 **RabbitMQ messaging** for asynchronous communication
-* 🐳 Fully containerized — run everything with `docker compose up`
-
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
 <p align="center">
+  <a href="mailto:doanvietanh03022003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+61450306460"><img src="https://img.shields.io/badge/(+61)%20450%20306%20460-34A853?style=flat&logo=googlevoice&logoColor=white" alt="Phone" /></a>
+  <a href="https://andydoan.tech"><img src="https://img.shields.io/badge/andydoan.tech-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/dva0302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/DVANH0302"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/doanvietanh03022003"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
+I'm a backend engineer, currently doing my Master's in Computer Science at the University of Sydney.
+
+I build the invisible half of software: the APIs, the queues, and the services doing the real work while the frontend takes all the credit. That backend layer is the part I care about most. Most of my work is in Java, and lately I've been learning Go, which has a way of making the backend feel less like magic and more like something I actually understand.
+
+## 💼 Where I've worked
+
+### [Digital Nexus AI, Software Engineering Intern]()
+*Dec 2025 – Apr 2026*
+
+I wrote a module that put OpenAI, Anthropic, and Gemini behind a single interface, turning roughly 100 lines of provider setup into about 10, then added a checker that quietly flags students copying each other and a live service that notices when someone drifts off mid-tutorial.
+
+### [VPBank, Software Engineer]()
+*Jul 2024 – Feb 2025*
+
+I built a chatbot that 200+ staff used to ask about the bank's data and regulations instead of digging through documents, along with pipelines that cataloged more than 5,000 tables so finding the right data stopped being a scavenger hunt.
+
+## 🚀 Things I've built for fun
+
+### [AstroDreamers](https://github.com/AstroDreamers) ([live demo](https://astrodreamers.netlify.app))
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+A real time air quality app that brings NASA satellite readings and ground sensors together in one view. We built it over a single weekend for the NASA Space Apps Challenge and walked away winning the Sydney round. Not a bad weekend.
+
+### [MicroCart](https://github.com/DVANH0302/MicroCart)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+An online store backend I built around one nagging question: what happens when an order is half finished and something breaks? A handful of small services hand the order between them and cleanly undo their work if any step fails. The whole thing spins up with a single command.
+
+### [Remote Canvas Server](https://github.com/DVANH0302/remote-canvas-server)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+A small animation server in C where multiple clients draw at once. The interesting part was running all that work in parallel while still handing each client its replies back in the right order.
+
+## 🛠️ Tools I like
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Backend & Frameworks**  
-<p align="center">
+**Backend**
+<p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
-**Databases**  
-<p align="center">
+**Data**
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
-**Cloud & DevOps**  
-<p align="center">
+**Infra**
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-**AI/ML**  
+## 🏆 A few proud moments
+
+First out of 51 at the SP Jain DSA competition, top 18 of 132 at VPBank's AI hackathon (which earned me a place in their Young Talent Program), and a win at the Sydney round of the 2025 NASA Space Apps Challenge.
+
+## 📊 Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://leetcard.jacoblin.cool/doanvietanh03022003?theme=light&font=Nunito&ext=heatmap" alt="LeetCode stats" width="500" />
 </p>
 
-### 🏆 Highlights
-- 🥇 **VPBank's Young Talent Program**, 2024
-- 🏅 **Top 18 Finalist** - VPBank Generative AI Hackathon (200+ participants)
-- 🚀 **NASA Space Apps Challenge** - Built AstroDreamers air quality monitoring platform
-- 🎓 **Dean's List** - SP Jain School of Global Management
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dva0302)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vdoa0556@uni.sydney.edu.au)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/doanvietanh03022003)
-
----
-
-
-### 📊 Coding Stats
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  
-  <!-- LeetCode on the left -->
-  <img src="https://leetcard.jacoblin.cool/doanvietanh03022003?theme=light&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="500" />
-
-  <!-- GitHub Stats + Top Languages stacked on the right -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DVANH0302&show_icons=true&theme=default" alt="GitHub Stats" width="400" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVANH0302&layout=compact&theme=default" alt="Top Languages" width="400" />
-  </div>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DVANH0302&theme=default" alt="GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DVANH0302&theme=default" alt="Top languages" height="180" />
+</p>
