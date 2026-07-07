@@ -11,7 +11,7 @@
 
 I'm a backend engineer, currently doing my Master's in Computer Science at the University of Sydney.
 
-I build the invisible half of software: the APIs, the queues, and the services doing the real work while the frontend takes all the credit. That backend layer is the part I care about most. Most of my work is in Java, and lately I've been learning Go, which has a way of making the backend feel less like magic and more like something I actually understand.
+I build the quiet half of software: the APIs, the queues, and the services humming away behind the scenes to keep everything running. That backend layer is the part I care about most. Most of my work is in Java, and lately I've been learning Go, which has a way of making the backend feel less like magic and more like something I actually understand.
 
 ## 💼 Where I've worked
 
