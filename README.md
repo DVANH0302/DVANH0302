@@ -85,8 +85,8 @@ First out of 51 at the SP Jain DSA competition, top 18 of 132 at VPBank's AI hac
   <img src="https://leetcard.jacoblin.cool/doanvietanh03022003?theme=light&font=Nunito&ext=heatmap" alt="LeetCode stats" width="500" />
 </p>
 <p align="center">
-  <a href="https://github.com/ekamsinghahuja/cp-insights">
-    <img src="https://github-readme-stats.vercel.app/api?username=DVANH0302&show_icons=true&theme=default" alt="GitHub Stats" />
+  <a href="https://codeforces.com/profile/goosegg">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=goosegg" alt="Codeforces Stats" width="500" />
   </a>
 </p>
 
