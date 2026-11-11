@@ -12,9 +12,11 @@
 I'm a backend engineer, currently doing my Master's in Computer Science at the University of Sydney.
 
 I build the quiet half of software: the APIs, the queues, and the services humming away behind the scenes to keep everything running. That backend layer is the part I care about most. Most of my work is in Java, and lately I've been learning Go, which has a way of making the backend feel less like magic and more like something I actually understand.
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=dvanh0302&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Anh Doan contribution Space Shooter" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 💼 Where I've worked
 
